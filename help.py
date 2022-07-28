@@ -8,7 +8,7 @@ import urllib.request
 
 
 import RPi.GPIO as GPIO
-import MFRC522
+import mfrc522
 import signal
 import time
  
