@@ -7,8 +7,8 @@ from datetime import datetime
 import urllib.request
 
 
-#import RPi.GPIO as GPIO
-#import MFRC522
+import RPi.GPIO as GPIO
+import MFRC522
 import signal
 import time
  
